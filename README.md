@@ -6,7 +6,7 @@
   <img align="center" src="292790.png" length="100" width="420">
   <br>
   <br>
-  <img src="rootme.png" length="100" width="420">
+  <img src="image.png" length="100" width="420">
 </a>
 
 ## Github Stats 📊
