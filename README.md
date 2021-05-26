@@ -1,10 +1,9 @@
 # CTF 📝
-![alt text](Ph3nX1.png)
-![alt text](292790.png)
-![alt text](rootme.png)
-
 <a href="https://github.com/Ph3nX-Z/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ph3nX-Z&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="420">
+  <img align="center" src="Ph3nX1.png" length="100" width="420">
+  <br>
+  <br>
+  <img align="center" src="292790.png" length="100" width="420">
   <br>
   <br>
   <img src="rootme.png" length="100" width="420">
