@@ -1,6 +1,6 @@
 # Ph3nX-Z
 
-![gif](gif.gif)
+# Stats
 
 ## CTFs 📝
 <a href="https://github.com/Ph3nX-Z/">
