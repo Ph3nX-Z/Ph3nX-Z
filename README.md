@@ -2,14 +2,14 @@
 
 ## CTFs 📝
 <a href="https://github.com/Ph3nX-Z/">
-  <img align="center" src="Ph3nX1.png" length="100" width="420">
+  <!--<img align="center" src="Ph3nX1.png" length="100" width="420">
   <br>
   <br>
   <!--<img align="center" src="292790.png" length="100" width="420">-->
   <br>
   <br>
   <img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/47fa9eb2cf21b1244cc53c27b682a169/static_badge_dark.png" />
-</a>
+</a>-->
 
 ## Github Stats 📊
 <a href="https://github.com/Ph3nX-Z/">
