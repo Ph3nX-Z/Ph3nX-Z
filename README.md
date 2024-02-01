@@ -1,9 +1,5 @@
 # Ph3nX-Z
 
-## CTFs 📝
-<a href="https://github.com/Ph3nX-Z/">
-
-
 ## Github Stats 📊
 <a href="https://github.com/Ph3nX-Z/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ph3nX-Z&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="420">
