@@ -1,9 +1,5 @@
-# Ph3nX-Z
-
 ## Github Stats 📊
-<a href="https://github.com/Ph3nX-Z/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ph3nX-Z&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="420">
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph3nX-Z&layout=compact&theme=gotham" length="100" width="420">
-</a>
+
+![Ph3nX-Z's Stats](https://github-readme-stats.vercel.app/api?username=Ph3nX-Z&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Ph3nX-Z's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ph3nX-Z&theme=vue-dark&hide_border=true)
+![Ph3nX-Z's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ph3nX-Z&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
